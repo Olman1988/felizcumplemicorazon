@@ -1,0 +1,8 @@
+@font-face
+{
+    font-family: 'Valentijn-FreeVersion';
+  src: url('Valentijn-FreeVersion.eot');
+  src: url('Valentijn-FreeVersion.eot?#') format('embedded-opentype'),
+      url('Valentijn-FreeVersion.woff') format('woff'),
+      url('Valentijn-FreeVersion.ttf') format('truetype');
+}
